@@ -55,3 +55,11 @@ fig_ac_2 <- subplot(p_1, p_2, p_3,
                        tickformat = "%b")
   )
 fig_ac_2
+
+
+# add master titles
+# from: https://stackoverflow.com/questions/58849925/plotly-how-to-apply-different-titles-for-each-different-subplots
+
+# end
+
+
